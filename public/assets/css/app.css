@@ -1,0 +1,8 @@
+.btn-dashed {
+    border: 1px dashed #dddddd;
+    background-color: #f6f6f6;
+    transition: background-color .2s linear;
+}
+.btn-dashed:hover {
+    background-color: #f1f1f1;
+}
